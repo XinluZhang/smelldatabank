@@ -3131,4 +3131,4 @@ void main() {
       <div class="eeg">
         <h3>Brainwave visualization</h3>
         <img src="./images/eeg/${e.eeg}.png" alt="">
-      </div>`)})}Vl();Im();for(let o=0;o<40;o++)ql();
+      </div>`)})}Vl();Im();for(let o=0;o<60;o++)ql();
