@@ -16,5 +16,53 @@ var imageData = [
     "en":"Lemon",
     "pic":"03ningmeng_pic",
     "eeg":"03ningmeng_eeg"
-  }
+  },
+  {
+    "name":"fendiye",
+    "en":"foundation",
+    "pic":"04fendiye_pic",
+    "eeg":"04fendiye_eeg"
+  },
+  {
+    "name":"yanying",
+    "en":"eyeshadow",
+    "pic":"05yanying_pic",
+    "eeg":"05yanying_eeg"
+  },
+  {
+    "name":"hushoushuang",
+    "en":"handcream",
+    "pic":"06hushoushuang_pic",
+    "eeg":"06hushoushuang_eeg"
+  },
+  {
+    "name":"muxiang",
+    "en":"wood",
+    "pic":"07muxiang_pic",
+    "eeg":"07muxiang_eeg"
+  },
+  {
+    "name":"yasi",
+    "en":"IELTS",
+    "pic":"08yasi_pic",
+    "eeg":"08yasi_eeg"
+  },
+  {
+    "name":"weijin",
+    "en":"scarf",
+    "pic":"09weijin_pic",
+    "eeg":"09weijin_eeg"
+  },
+  {
+    "name":"jiujing",
+    "en":"alcohol",
+    "pic":"10jiujing_pic",
+    "eeg":"10jiujing_eeg"
+  },
+  {
+    "name":"kafei",
+    "en":"coffee",
+    "pic":"11kafei_pic",
+    "eeg":"11kafei_eeg"
+  },
 ]
