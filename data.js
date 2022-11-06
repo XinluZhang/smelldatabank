@@ -28,7 +28,7 @@ var imageData = [
   {name:"xingdailu",en:"	StellaLou	",pic:"27xingdailu_pic"	,eeg:"27xingdailu_eeg"},
   {name:"yanliao",en:"	Pigment	",pic:"28yanliao_pic"	,eeg:"28yanliao_eeg"},
   {name:"zhaxia",en:"	Fried Praw	",pic:"29zhaxia_pic"	,eeg:"29zhaxia_eeg"},
-  {name:"gutou",en:"	Bone】	",pic:"30gutou_pic"	,eeg:"30gutou_eeg"},
+  {name:"gutou",en:"	Bone	",pic:"30gutou_pic"	,eeg:"30gutou_eeg"},
   {name:"chaye",en:"	Tea	",pic:"31chaye_pic"	,eeg:"31chaye_eeg"},
   {name:"mihoutao",en:"	Kiwifruit	",pic:"32mihoutao_pic"	,eeg:"32mihoutao_eeg"},
   {name:"miantiao",en:"	Noodles	",pic:"33miantiao_pic"	,eeg:"33miaotiao_eeg"},
