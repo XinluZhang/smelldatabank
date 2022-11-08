@@ -3129,6 +3129,6 @@ void main() {
         <img src="./images/pic/${e.pic}.jpg" alt="">
       </div>
       <div class="eeg">
-        <h3>EEG REDORD</h3>
+        <h3>EEG RECORD</h3>
         <img src="./images/eeg/${e.eeg}.png" alt="">
       </div>`)})}requestAnimationFrame(ql);Um();setTimeout(()=>{for(let o=0;o<30;o++)Xl()},1e3);
